@@ -20,7 +20,5 @@ def str_to_int(string: str):
 
 
 numbers = "-1234"
-# print(str_to_int(numbers))
-# print(type(str_to_int(numbers)))
+print(str_to_int(numbers))
 print(to_int(numbers))
-# print(type(to_int(numbers)))
